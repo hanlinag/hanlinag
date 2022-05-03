@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanlinag&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hanlinag
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hanlinag)
